@@ -1,0 +1,22 @@
+body {
+    margin: 0 auto;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    flex-direction: column;
+}
+div {
+    overflow: hidden;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    display: flex;   
+    justify-content: center; 
+}
+p {
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
